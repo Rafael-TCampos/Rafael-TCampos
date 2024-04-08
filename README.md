@@ -1,6 +1,8 @@
 
 ### Olá! Eu sou o Rafael Torres!👋
 
+![snake gif](https://github.com/Rafael-TCampos/Rafael-TCampos/blob/output/github-contribution-grid-snake.gif)
+
 ![Rafael-TCampos GitHub stats](https://github-readme-stats.vercel.app/api?username=Rafael-TCampos&show_icons=true&theme=radical)
 
 ## Tecnologias que uso no dia a dia
