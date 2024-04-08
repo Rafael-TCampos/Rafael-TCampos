@@ -4,7 +4,7 @@
 
 ![Rafael-TCampos GitHub stats](https://github-readme-stats.vercel.app/api?username=Rafael-TCampos&show_icons=true&theme=radical)
 
-![snake gif](https://github.com/Rafael-TCampos/Rafael-TCampos/blob/output/github-contribution-grid-snake.gif)
+
 
 ## Tecnologias que uso no dia a dia
 
@@ -14,5 +14,7 @@
  <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
  <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
  </div></br>
+
+ ![snake gif](https://github.com/Rafael-TCampos/Rafael-TCampos/blob/output/github-contribution-grid-snake.gif)
 
  Quem sou eu? A alegria de quem me ama, a tristeza de quem me odeia e a ocupação de quem me inveja!
